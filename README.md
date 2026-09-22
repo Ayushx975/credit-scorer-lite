@@ -1,5 +1,7 @@
 # Credit Scorer Lite
 
+![Python 3.11](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-FC6600?style=flat) ![License MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 Gradient-boosted credit scoring with **reason codes** — every score comes with explainable factors (like a real CIBIL-style report).
 
 Built to explore fair, transparent lending models for the Indian retail-credit context: small training footprint, no PII, and human-readable decline/ approval reasons.
